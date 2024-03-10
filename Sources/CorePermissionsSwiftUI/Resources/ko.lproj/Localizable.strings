@@ -1,0 +1,10 @@
+/* MARK: Allow Button */
+"button_allow" = "허용";
+"button_allowed" = "허용됨";
+"button_denied" = "거부됨";
+"button_next" = "다음";
+
+/* MARK: UI labels */
+"permission_header" = "권한 요청";
+"permission_primary_label" = "In order for you use certain features of this app, you need to give permissions. See description for each permission";
+"permission_secondary_label" = "Permission are necessary for all the features and functions to work properly. If not allowed, you have to enable permissions in settings";
